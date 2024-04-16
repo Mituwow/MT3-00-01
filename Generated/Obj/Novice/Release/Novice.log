@@ -1,0 +1,13 @@
+﻿  StringUtility.cpp
+  DirectXCommon.cpp
+  WinApp.cpp
+  GameScene.cpp
+  TextureManager.cpp
+  ImGuiManager.cpp
+  Novice.cpp
+  main.cpp
+C:\Users\syado\OneDrive\デスクトップ\MT3\MT3-00-01\Novice\main.cpp(48,43): error C2220: 次の警告はエラーとして処理されます
+C:\Users\syado\OneDrive\デスクトップ\MT3\MT3-00-01\Novice\main.cpp(48,43): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\syado\OneDrive\デスクトップ\MT3\MT3-00-01\Novice\main.cpp(53,34): warning C4100: 'a': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\syado\OneDrive\デスクトップ\MT3\MT3-00-01\Novice\main.cpp(77,8): warning C4189: 'resultDot': ローカル変数が初期化されましたが、参照されていません
+C:\Users\syado\OneDrive\デスクトップ\MT3\MT3-00-01\Novice\main.cpp(78,8): warning C4189: 'resultLength': ローカル変数が初期化されましたが、参照されていません
