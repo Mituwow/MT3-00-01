@@ -12,7 +12,6 @@ struct Vector3 {
 	float z;
 };
 
-
 Vector3 Add(const Vector3& a, const Vector3& b) {
 	Vector3 result;
 	result.x = a.x + b.x;
@@ -91,8 +90,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 		/// ↓更新処理ここから
 		///
-
-		
+			
 
 		///
 		/// ↑更新処理ここまで
